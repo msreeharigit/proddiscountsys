@@ -1,0 +1,28 @@
+{  
+   "brands":[  
+      {  
+         "name":"UCB",
+         "discount":0.0
+      },
+      {  
+         "name":"Wrangler",
+         "discount":10.0
+      },
+      {  
+         "name":"Adidas",
+         "discount":5.0
+      },
+      {  
+         "name":"Vero Moda",
+         "discount":60.0
+      },
+      {  
+         "name":"Arrow",
+         "discount":20.0
+      },
+      {  
+         "name":"Provogue",
+         "discount":20.0
+      }
+   ]
+}
